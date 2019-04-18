@@ -1,0 +1,8 @@
+#ifndef VIEWSTOREDBOOKS_H_INCLUDED
+#define VIEWSTOREDBOOKS_H_INCLUDED
+
+
+
+#endif // VIEWSTOREDBOOKS_H_INCLUDED
+
+void ViewStoredBooks();

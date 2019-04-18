@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1555615231 source:c:\users\sanje\desktop\lib 2_\2\e\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"showBookInfo.h"
+	"BookInfo.h"
+	"bookClass.h"
+	"searchBook.h"
+	"deletingBook.h"
+	"update.h"
+
+1555547722 c:\users\sanje\desktop\lib 2_\2\e\showbookinfo.h
+
+1555545314 c:\users\sanje\desktop\lib 2_\2\e\bookinfo.h
+
+1555615977 c:\users\sanje\desktop\lib 2_\2\e\bookclass.h
+
+1555547513 c:\users\sanje\desktop\lib 2_\2\e\searchbook.h
+
+1555547516 c:\users\sanje\desktop\lib 2_\2\e\deletingbook.h
+
+1555520330 c:\users\sanje\desktop\lib 2_\2\e\update.h
+
+1555615667 source:c:\users\sanje\desktop\lib 2_\2\e\bookinfo.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"bookClass.h"
+	"BookInfo.h"
+
+1555555569 source:c:\users\sanje\desktop\lib 2_\2\e\deletingbook.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"bookClass.h"
+	"deletingBook.h"
+
+1555615645 source:c:\users\sanje\desktop\lib 2_\2\e\showbookinfo.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"showBookInfo.h"
+	"bookClass.h"
+
+1555555012 source:c:\users\sanje\desktop\lib 2_\2\e\update.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"bookClass.h"
+	"BookInfo.h"
+	"update.h"
+
+1555562992 source:c:\users\sanje\desktop\lib 2_\2\e\viewstoredbooks.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"ViewStoredBooks.h"
+	"bookClass.h"
+	"showBookInfo.h"
+
+1555547502 c:\users\sanje\desktop\lib 2_\2\e\viewstoredbooks.h
+
+1555553474 source:c:\users\sanje\desktop\lib 2_\2\e\storedbooks.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"StoredBooks.h"
+	"bookClass.h"
+
+1555547507 c:\users\sanje\desktop\lib 2_\2\e\storedbooks.h
+
+1555553474 source:c:\users\sanje\desktop\lib 2_\2\e\searchbook.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"showBookInfo.h"
+	"BookInfo.h"
+	"bookClass.h"
+	"searchBook.h"
+	"deletingBook.h"
+	"update.h"
+
